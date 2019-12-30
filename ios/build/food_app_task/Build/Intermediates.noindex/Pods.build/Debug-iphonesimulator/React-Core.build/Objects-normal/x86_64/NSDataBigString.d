@@ -1,0 +1,45 @@
+dependencies: \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/node_modules/react-native/React/CxxBridge/NSDataBigString.mm \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/node_modules/react-native/React/CxxBridge/NSDataBigString.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Headers/Public/React-cxxreact/cxxreact/JSBigString.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/Exception.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/Conv.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Headers/Public/DoubleConversion/double-conversion/double-conversion.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Headers/Public/DoubleConversion/double-conversion/utils.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/Demangle.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/FBString.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/Portability.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/CPortability.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/Traits.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/hash/Hash.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/Utility.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/functional/ApplyTuple.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/functional/Invoke.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/Preprocessor.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/hash/SpookyHashV1.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/hash/SpookyHashV2.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/lang/Bits.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/ConstexprMath.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/lang/Assume.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/portability/Builtins.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/memory/Malloc.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/memory/detail/MallocImpl.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/Expected.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/Likely.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/Optional.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/Unit.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/lang/ColdClass.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/Range.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/portability/Constexpr.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/portability/String.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/CpuId.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/detail/RangeCommon.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Headers/Public/glog/glog/logging.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Headers/Public/glog/glog/log_severity.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Headers/Public/glog/glog/vlog_is_on.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/detail/RangeSse42.h \
+  /Users/kaushikpandey/Desktop/Kaushik/react-native/food_app_task/ios/Pods/Folly/folly/portability/Math.h
